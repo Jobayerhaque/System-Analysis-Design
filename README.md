@@ -13,4 +13,4 @@ Contains Documents of System Analysis &amp; Design for the City University of Ba
 <br/><br/>
 
 ## [LAB Practical Projects Documents | CSE-326](https://github.com/Shobuj47/cu-cse-325-326/tree/master/Documents/cse-326)
-#### 1. [Library Management Documents](https://github.com/Shobuj47/cu-cse-325-326/tree/master/Documents/cse-326/Midterm/Library%20Management%20Docs) 
+#### 1. [Blood-donation-app.pdf](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Blood-donation-app.pdf) 
