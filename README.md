@@ -6,7 +6,7 @@ Contains Documents of System Analysis &amp; Design for the City University of Ba
 
 ## [Theory Documentations | CSE-325](https://github.com/Shobuj47/cu-cse-325-326/tree/master/Documents/cse-325)
 #### 1. [Agile Methodology Documentations](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Agile%20Development%20Methodology.pdf )
-#### 2. [Banking Application Use Cases Diagram & E-Commerce Class Diagram](https://github.com/Shobuj47/cu-cse-325-326/tree/master/Documents/cse-325/Midterm/Mid%20Term%20Final)
+#### 2. [Banking Application Use Case Diagram](https://github.com/Jobayerhaque/System-Analysis-Design )
 #### 3. [Use Case & Class Diagram Report](https://github.com/Shobuj47/cu-cse-325-326/blob/master/Documents/cse-325/Midterm/Mid%20Term%20Final/Mid%20Term%20Report%20Final.pdf)
 <br/><br/>
 
