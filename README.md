@@ -4,7 +4,7 @@
 Contains Documents of System Analysis &amp; Design for the City University of Bangladesh
 <br/><br/>
 
-## [Theory Documentations | CSE-325](https://github.com/Shobuj47/cu-cse-325-326/tree/master/Documents/cse-325)
+## [Theory Documentations | CSE-325](https://github.com/Jobayerhaque/System-Analysis-Design)
 #### 1. [Agile Methodology Documentations](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Agile%20Development%20Methodology.pdf )
 #### 2. [Lab mid Exam.pdf](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Lab%20mid%20Exam.pdf)
 #### 3. [Banking Application Use Case Diagram](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Banking%20App.jpg)
