@@ -14,8 +14,8 @@ Contains Documents of System Analysis &amp; Design for the City University of Ba
 
 ## [For Final Exam] 
 ## [Theory Documentations | CSE-325]
-#### 1. [Write a report on ATM Activity with Diagram](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/ATM_Activity.zip )
-#### 2. [Write a report on ATM Sequence with Diagram](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/ATM_Sequence%20diagram.zip)
+#### 1. [Write a report on ATM Activity with Diagram](https://github.com/Jobayerhaque/System-Analysis-Design/tree/master/ATM_Activity)
+#### 2. [Write a report on ATM Sequence with Diagram](https://github.com/Jobayerhaque/System-Analysis-Design/tree/master/ATM_Sequence_diagram)
 <br/><br/>
 
 ## [Lab Documentations | CSE-326]
