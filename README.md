@@ -25,5 +25,3 @@ Contains Documents of System Analysis &amp; Design for the City University of Ba
 
 ## [LAB Practical Project_Report | CSE-326]
 #### 1. [Blood_donation_app.pdf](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Project_Report_Blood%20Donation.zip) 
-
-https://github.com/Jobayerhaque/System-Analysis-Design/tree/master/text
