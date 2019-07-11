@@ -4,11 +4,8 @@
 ### 1. [Online shop & Banking_app](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Mid_Exam/Lab_Mid_Exam.pdf)
 
 ## [Theory Documentations | CSE-325]
-#### 1. [Agile Methodology Documentations](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Agile%20Development%20Methodology.pdf )
-#### 2. [Lab mid Exam.pdf](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Lab%20mid%20Exam.pdf)
-#### 3. [Banking Application Use Case Diagram](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Banking%20App.jpg)
-#### 4. [E-Commerce System Class diagram.jpg](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/New%20Online%20e-Commerce%20System.jpg)
-#### 5. [Report.pdf](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Report.pdf)
+#### 1. [Assignment_01_Agile Methodology](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Theory_Assignment/Assignment_01/Agile%20Development%20Methodology.pdf )
+#### 2. [Assignment_02_Activity & Sequence_diagram](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Theory_Assignment/Assignment_02/Activity%20%26%20Sequence%20diagram.pdf)
 
 ## [For Final Exam] 
 ## [Theory Documentations | CSE-325]
