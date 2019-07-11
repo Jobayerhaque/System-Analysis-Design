@@ -1,7 +1,7 @@
 # System-Analysis-Design
 
 ## [For_Mid_Exam] 
-### 1. [Online shop & Banking_appklklklklklklkll](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Mid_Exam/Lab_Mid_Exam.pdf)
+### 1. [Online shop & Banking_app](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Mid_Exam/Lab_Mid_Exam.pdf)
 
 ## [Theory Documentations | CSE-325]
 #### 1. [Theory_Assignment_01_Agile Methodology](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Theory_Assignment/Assignment_01/Agile%20Development%20Methodology.pdf )
