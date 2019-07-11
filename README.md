@@ -1,7 +1,7 @@
 # System-Analysis-Design
 
-## [For Mid Exam] 
-### [Use Case & Class diagram](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Mid_Exam/Lab_Mid_Exam.pdf)
+## [For_Mid_Exam] 
+### 1. [Online shop & Banking_app](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Mid_Exam/Lab_Mid_Exam.pdf)
 
 ## [Theory Documentations | CSE-325]
 #### 1. [Agile Methodology Documentations](https://github.com/Jobayerhaque/System-Analysis-Design/blob/master/Agile%20Development%20Methodology.pdf )
